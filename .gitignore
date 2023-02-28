@@ -1,0 +1,6 @@
+.project
+.settings/
+.classpath
+target/
+
+awesome-crawler-instance/crawler/config.yaml
